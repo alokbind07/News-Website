@@ -1,5 +1,5 @@
 # News-Website
-Show real time news.
+Complete News Website, which shows real time News.
 
 TechStack Used: HTML , CSS , JavaScript.
 
